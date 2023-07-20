@@ -19,6 +19,10 @@
 
 `PHP 8.2.8`
 
+## Composer version
+
+`composer 2.5.8`
+
 ## NPM version
 
 `npm 9.7.2`
