@@ -15,5 +15,14 @@
 
 `composer require barryvdh/laravel-debugbar --dev`
 
+## PHP Version
 
+`PHP 8.2.8`
+
+## NPM version
+
+`npm 9.7.2`
+
+## Node version
+`node 20.4.0`
 
